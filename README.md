@@ -37,6 +37,14 @@ The Quiz is a project developed with responsive design in React and Chakra UI Fr
 
 
 ## Screenshots
+<img src="https://github.com/Manoaraujo/Manoaraujo/quiz/blob/master/public/screenshots/vid01.gif">
+<img src="https://github.com/Manoaraujo/Manoaraujo/quiz/blob/master/public/screenshots/01.png">
+<img src="https://github.com/Manoaraujo/Manoaraujo/quiz/blob/master/public/screenshots/02.png">
+<img src="https://github.com/Manoaraujo/Manoaraujo/quiz/blob/master/public/screenshots/03.png">
+<img src="https://github.com/Manoaraujo/Manoaraujo/quiz/blob/master/public/screenshots/04.png">
+<img src="https://github.com/Manoaraujo/Manoaraujo/quiz/blob/master/public/screenshots/05.png">
+<img src="https://github.com/Manoaraujo/Manoaraujo/quiz/blob/master/public/screenshots/06.png">
+
 
 
 
