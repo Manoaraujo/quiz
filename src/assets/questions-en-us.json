@@ -1,0 +1,132 @@
+[
+    {
+        "id": 1,
+        "question": "What is the main ingredient in guacamole?",
+        "options": [
+            {
+                "id": "A",
+                "text": "Avocado",
+                "result": true
+            },
+            {
+                "id": "B",
+                "text": "Tomato",
+                "result": false
+            },
+            {
+                "id": "C",
+                "text": "Banana",
+                "result": false
+            },
+            {
+                "id": "D",
+                "text": "Carrot",
+                "result": false
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "question": "Which spice is often used to add heat to dishes?",
+        "options": [
+            {
+                "id": "A",
+                "text": "Cinnamon",
+                "result": false
+            },
+            {
+                "id": "B",
+                "text": "Paprika",
+                "result": false
+            },
+            {
+                "id": "C",
+                "text": "Chili Powder",
+                "result": true
+            },
+            {
+                "id": "D",
+                "text": "Oregano",
+                "result": false
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "question": "Which fruit is known as the 'king of fruits'?",
+        "options": [
+            {
+                "id": "A",
+                "text": "Apple",
+                "result": false
+            },
+            {
+                "id": "B",
+                "text": "Mango",
+                "result": true
+            },
+            {
+                "id": "C",
+                "text": "Orange",
+                "result": false
+            },
+            {
+                "id": "D",
+                "text": "Grapes",
+                "result": false
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "question": "Which type of pasta is shaped like small rice grains?",
+        "options": [
+            {
+                "id": "A",
+                "text": "Fusilli",
+                "result": false
+            },
+            {
+                "id": "B",
+                "text": "Orzo",
+                "result": true
+            },
+            {
+                "id": "C",
+                "text": "Penne",
+                "result": false
+            },
+            {
+                "id": "D",
+                "text": "Spaghetti",
+                "result": false
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "question": "Which dairy product is made by curdling milk and straining off the whey?",
+        "options": [
+            {
+                "id": "A",
+                "text": "Butter",
+                "result": false
+            },
+            {
+                "id": "B",
+                "text": "Yogurt",
+                "result": true
+            },
+            {
+                "id": "C",
+                "text": "Cheese",
+                "result": false
+            },
+            {
+                "id": "D",
+                "text": "Milk",
+                "result": false
+            }
+        ]
+    }
+]

@@ -1,0 +1,132 @@
+[
+   {
+      "id": 1,
+      "question": "Qual é o principal ingrediente do guacamole?",
+      "options": [
+         {
+            "id": "A",
+            "text": "Abacate",
+            "result": true
+         },
+         {
+            "id": "B",
+            "text": "Tomate",
+            "result": false
+         },
+         {
+            "id": "C",
+            "text": "Banana",
+            "result": false
+         },
+         {
+            "id": "D",
+            "text": "Cenoura",
+            "result": false
+         }
+      ]
+   },
+   {
+      "id": 2,
+      "question": "Qual tempero é frequentemente usado para adicionar calor aos pratos?",
+      "options": [
+         {
+            "id": "A",
+            "text": "Canela",
+            "result": false
+         },
+         {
+            "id": "B",
+            "text": "Paprika",
+            "result": false
+         },
+         {
+            "id": "C",
+            "text": "Pimenta em pó",
+            "result": true
+         },
+         {
+            "id": "D",
+            "text": "Orégano",
+            "result": false
+         }
+      ]
+   },
+   {
+      "id": 3,
+      "question": "Qual fruta é conhecida como a 'rainha das frutas'?",
+      "options": [
+         {
+            "id": "A",
+            "text": "Maçã",
+            "result": false
+         },
+         {
+            "id": "B",
+            "text": "Manga",
+            "result": true
+         },
+         {
+            "id": "C",
+            "text": "Laranja",
+            "result": false
+         },
+         {
+            "id": "D",
+            "text": "Uvas",
+            "result": false
+         }
+      ]
+   },
+   {
+      "id": 4,
+      "question": "Qual tipo de massa é moldada como pequenos grãos de arroz?",
+      "options": [
+         {
+            "id": "A",
+            "text": "Fusilli",
+            "result": false
+         },
+         {
+            "id": "B",
+            "text": "Orzo",
+            "result": true
+         },
+         {
+            "id": "C",
+            "text": "Penne",
+            "result": false
+         },
+         {
+            "id": "D",
+            "text": "Spaghetti",
+            "result": false
+         }
+      ]
+   },
+   {
+      "id": 5,
+      "question": "Qual produto lácteo é feito por meio da coagulação do leite e da separação do soro?",
+      "options": [
+         {
+            "id": "A",
+            "text": "Manteiga",
+            "result": false
+         },
+         {
+            "id": "B",
+            "text": "Iogurte",
+            "result": true
+         },
+         {
+            "id": "C",
+            "text": "Queijo",
+            "result": false
+         },
+         {
+            "id": "D",
+            "text": "Leite",
+            "result": false
+         }
+      ]
+   }
+]
