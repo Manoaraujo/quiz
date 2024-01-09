@@ -146,7 +146,7 @@ function Quiz() {
             h="100px"
          >
             <Text fontSize="lg" as="b" color="white">
-               {t.question} {currentQuestionIndex + 1} of{" "}
+               {t.question} {currentQuestionIndex + 1} {t.of }{" "}
                {questionsItems.length}.
             </Text>
             <Text
